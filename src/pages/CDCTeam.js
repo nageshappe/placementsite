@@ -34,21 +34,21 @@ const coordinators = [
     name: "Dr. Murugan",
     designation: "Placement Coordinator, EEE Dept.",
     photo: "/staff/rajendra.jpg",
-    certifiedIn: "Blue Prism RPA, CISCO NETCAD Academy ",
+    certifiedIn: " ",
     experience: "13 years"
   },
   {
     name: "Mr. B.Satish",
     designation: "Placement Coordinator, EIE Dept.",
     photo: "/staff/nirdesh.jpg",
-    certifiedIn: "Celonis Microchip Academy ",
+    certifiedIn: " ",
     experience: "14 years"
   },
   {
     name: "Mr. P.Lava Kumar",
     designation: "Placement Coordinator, Mech Dept.",
     photo: "/staff/abhishek.jpg",
-    certifiedIn: "IBM Celonis NVIDIA AWS AIML Academy ",
+    certifiedIn: "",
     experience: "12 years"
   },
   {
