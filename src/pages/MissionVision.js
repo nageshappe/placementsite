@@ -2,7 +2,7 @@ import React from 'react';
 
 const MissionVision = () => {
   return (
-    <div>
+    <div className='container py-4'>
       <h1>Mission & Vision</h1>
       <p>VISION
 

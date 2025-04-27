@@ -20,7 +20,7 @@ function Navbar() {
             <div className="dropdown-content">
               {/* <Link to="/accreditations">Govt. Accreditations</Link> */}
               <Link to="/professional-memberships">Professional Memberships</Link>
-              <Link to="/mous">Industry MoUs</Link>
+              <Link to="/industry-interaction">Industry Interaction</Link>
               <Link to="/coe">Center of Excellence</Link>
             
             </div>

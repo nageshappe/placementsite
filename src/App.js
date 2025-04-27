@@ -7,12 +7,9 @@ import MissionVision from './pages/MissionVision';
 import OurRecruiters from './pages/OurRecruiters';
 import GovtAccreditations from './pages/GovtAccreditations';
 import ProfessionalMemberships from './pages/ProfessionalMemberships';
-import IndustryMoUs from './pages/IndustryMoUs';
+import IndustryInteraction from "./pages/IndustryInteraction"
 import CenterOfExcellence from './pages/CenterOfExcellence';
-import Bosch from './pages/Bosch';
-import Mitsubishi from './pages/Mitsubishi';
-import Virtusa from './pages/Virtusa';
-import GlobalLogic from './pages/GlobalLogic';
+
 import InternshipCalendar from './pages/InternshipCalendar';
 import InternshipStatistics from './pages/InternshipStatistics';
 import InternshipCoordinator from './pages/InternshipCoordinator';
@@ -39,18 +36,14 @@ function App() {
         <Route path="/recruiters" element={<OurRecruiters />} />
         <Route path="/govt-accreditations" element={<GovtAccreditations />} />
         <Route path="/professional-memberships" element={<ProfessionalMemberships />} />
-        <Route path="/industry-mous" element={<IndustryMoUs />} />
+        <Route path="/industry-interaction" element={<IndustryInteraction />} />
         <Route path="/coe" element={<CenterOfExcellence/>}/>
-        {/* <Route path="/bosch" element={<Bosch />} />
-        <Route path="/mitsubishi" element={<Mitsubishi />} />
-        <Route path="/virtusa" element={<Virtusa />} />
-        <Route path="/global-logic" element={<GlobalLogic />} /> */}
         <Route path="/internship-calendar" element={<InternshipCalendar />} />
-        <Route path="/internship-statistics" element={<InternshipStatistics />} />
+        <Route path="/internship-stats" element={<InternshipStatistics />} />
         <Route path="/internship-coordinator" element={<InternshipCoordinator />} />
         <Route path="/workshop-calendar" element={<WorkshopCalendar />} />
         <Route path="/placement-calendar" element={<PlacementCalendar />} />
-        <Route path="/placement-statistics" element={<PlacementStatistics />} />
+        <Route path="/placement-stats" element={<PlacementStatistics />} />
         <Route path="/cdc-team" element={<CDCTeam />} />
 
         <Route path="/cdc-coordinators" element={<CDCCoordinators />} />

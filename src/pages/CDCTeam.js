@@ -108,6 +108,13 @@ const coordinators = [
     experience: "10 years"
   },
   {
+    name: "Mr. Chiatanya",
+    designation: "Placement Coordinator, CSE Dept.",
+    photo: "/staff/zohaib.jpg",
+    certifiedIn: "",
+    experience: "10 years"
+  },
+  {
     name: "Mr. P.Sudhakar",
     designation: "Placement Coordinator, CSE Dept.",
     photo: "/staff/zohaib.jpg",
